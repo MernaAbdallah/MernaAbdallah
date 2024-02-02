@@ -1,4 +1,3 @@
-![MasterHead](https://res.cloudinary.com/killer-infographics-inc/image/upload/v1582154400/Blog%20Workbench%20Headers/Visual%20Communication%20Webinar%20Announcement%20Illustration.jpg)
 <h1 align="center">Hi 👋, I'm Merna Abdullah</h1>
 <h3 align="center">I am student at Faculty of Computer and Information Science, Ain Shams University</h3>
 <img align="right" alt="Coding" width="400" src="https://diginestsolutions.com/wp-content/uploads/2021/07/webb.gif">
