@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Merna Abdullah</h1>
-<h3 align="center">I am student at Faculty of Computer and Information Science, Ain Shams University</h3>
+<h3 align="center">I am  Software Engineer Studied at Faculty of Computer and Information Science, Ain Shams University</h3>
 <img align="right" alt="Coding" width="400" src="https://diginestsolutions.com/wp-content/uploads/2021/07/webb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mernaabdallah&label=Profile%20views&color=0e75b6&style=flat" alt="mernaabdallah" /> </p>
 
